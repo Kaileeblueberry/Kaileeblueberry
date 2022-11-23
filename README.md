@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning ... COBOL and Python
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I speak Spanish and some Portuguese(still learning)
-- :calendar: ... I've been coding since 2011, but didn't think of persuing it as an actual career until 2020
+- :calendar: Random ... I've been coding since 2011, but didn't think of persuing it as an actual career until 2020
 
